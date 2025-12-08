@@ -26,13 +26,3 @@
 
 ---
 
-### 📊 Github Stats
-<div align="center">
-  <a href="https://github.com/Peera-27">
-    <img src="https://github-readme-stats-sage-delta-40.vercel.app/api?username=Peera-27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="Peera-27's Github Stats" />
-  </a>
-  
-  <a href="https://github.com/Peera-27">
-    <img src="https://github-readme-stats-sage-delta-40.vercel.app/api/top-langs/?username=Peera-27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="Top Langs" />
-  </a>
-</div>
