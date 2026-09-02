@@ -90,33 +90,6 @@ I'm a **junior full-stack developer** from Thailand. Most of what I build is sma
 
 ---
 
-## 🎯 Junior → Senior: what I'm working on
-
-```text
-[x] Ship real products end to end, not just tutorials
-[x] Work with someone else's codebase (albion-api)
-[x] Get comfortable across web, mobile, and ML deployment
-[ ] Write tests I actually trust  ..................... in progress
-[ ] Design a system before writing the first line ..... in progress
-[ ] Read and review code as well as I write it ........ in progress
-[ ] Own an architecture decision and its trade-offs ... next
-```
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Peera-27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peera-27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Peera-27&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
-</p>
-
----
-
 ## 📫 Reach me
 
 <p>
