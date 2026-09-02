@@ -7,12 +7,14 @@
 
 <p align="center">
   <a href="https://github.com/Peera-27?tab=followers"><img src="https://img.shields.io/github/followers/Peera-27?style=for-the-badge&color=38BDF8&labelColor=0D1117&logo=github" alt="followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Peera-27&style=for-the-badge&color=38BDF8&labelColor=0D1117" alt="profile views" />
+  <a href="mailto:crbrsonline@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
 ---
 
 ## 👋 About me
+
+<img align="right" width="290" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding" />
 
 I'm a **junior full-stack developer** from Thailand. Most of what I build is small products that go all the way from idea to a deployed URL — web apps, a mobile app, and a couple of AI/computer-vision experiments.
 
@@ -23,6 +25,8 @@ I'm a **junior full-stack developer** from Thailand. Most of what I build is sma
 - 🎮 Long-term goal: build games (currently poking at Unreal Engine)
 
 > I'd rather say *"I've built this and here's what broke"* than list buzzwords. Everything below shows up in the repos on this profile.
+
+<br clear="both" />
 
 ---
 
